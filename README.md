@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
 
-## This one literally my Calculus Score
+## This one literally is my Calculus Score
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsthopaz\&show_icons=true)
 
