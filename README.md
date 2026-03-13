@@ -1,9 +1,11 @@
 # Yes, I do Blockchain
 # Why? Mom told me to
 
+
+
 ## God please help me 😭🙏
 
-### Frameworks
+### I dont know what that is
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat\&logo=ethereum\&logoColor=black)
@@ -11,7 +13,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-Learning-FF2D20?style=flat\&logo=laravel\&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-Learning-4FC08D?style=flat\&logo=vuedotjs\&logoColor=white)
 
-### Languages
+### I only know HelloWorld("print");
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat\&logo=solidity\&logoColor=white)
@@ -24,12 +26,12 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Learning-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
 
 
-### Tools
+### Eughh
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
 
-## 📊 GitHub Stats
+## This one literally my Calculus Score
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsthopaz\&show_icons=true)
 
