@@ -1,5 +1,5 @@
-> Yes, I do Blockchain
-> Why? Mom told me to
+# Yes, I do Blockchain
+# Why? Mom told me to
 
 ## God please help me 😭🙏
 
@@ -23,6 +23,14 @@
 ![PHP](https://img.shields.io/badge/PHP-Learning-777BB4?style=flat\&logo=php\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Learning-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
 
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsthopaz\&show_icons=true)
+
+
