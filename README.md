@@ -35,4 +35,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsthopaz\&show_icons=true)
 
-![Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB1ZHhoOTYxZzh0MHFxdmo4dmJ3YXVtN2E2bWVjYzYyZDNwY3E4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ij5kcfI6YwcPCN26U2/giphy.gif)
