@@ -5,7 +5,7 @@
 
 ## God please help me 😭🙏
 
-### I dont know what that is
+### I dont know what this is
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat\&logo=ethereum\&logoColor=black)
@@ -20,6 +20,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Learning-777BB4?style=flat\&logo=php\&logoColor=white)
