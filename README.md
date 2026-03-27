@@ -34,5 +34,10 @@
 
 ## This one literally is my Calculus Score
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsthopaz\&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsthopaz&show_icons=true)
 
+## Language
+![Indonesian](https://img.shields.io/badge/Indonesian-Native-red?style=flat)
+![English](https://img.shields.io/badge/English-Advanced-blue?style=flat)
+
+(sorry guys im too lazy to update my linkedin)
