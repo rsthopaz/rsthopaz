@@ -34,7 +34,7 @@
 
 ## This one literally is my Calculus Score
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight)](https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz)
+![GitHub stats](https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ## Language
 
