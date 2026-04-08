@@ -38,7 +38,7 @@
 
 ## Language
 
-- 🇮🇩 Indonesian — Native (installed at birth)
-- 🇬🇧 English — Advanced (Stack Overflow certified)
+- 🇮🇩 Indonesian - Native (installed at birth)
+- 🇬🇧 English - Advanced (Stack Overflow certified)
 
 (sorry guys im too lazy to update my linkedin)
