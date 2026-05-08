@@ -1,4 +1,4 @@
-# Yes, I do Blockchain
+# Yes, I do Blockchain (Mostly on ![GitLab](https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png) GitLab and Private Repo XD)
 # Why? Mom told me to
 
 
