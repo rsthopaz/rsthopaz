@@ -36,6 +36,16 @@
 
 ![GitHub stats](https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
+## I type with my feet
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rsthopaz/rsthopaz/monkeytype-readme/monkeytype-readme.svg" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/rsthopaz/rsthopaz/monkeytype-readme/monkeytype-readme-lb.svg" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/rsthopaz/rsthopaz/monkeytype-readme/monkeytype-readme-pb.svg" />
+</p>
+
 ## Language
 
 - 🇮🇩 Indonesian - Native (installed at birth)
