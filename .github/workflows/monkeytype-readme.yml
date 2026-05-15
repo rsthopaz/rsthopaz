@@ -18,16 +18,16 @@ jobs:
           mkdir -p public
 
           curl -L -o public/monkeytype-readme.svg \
-          https://monkeytype-production.up.railway.app/generate-svg/Tezt/lil_dragon
+          https://monkeytype-production.up.railway.app/generate-svg/Tezt/vesper
 
           curl -L -o public/monkeytype-readme-lb.svg \
-          "https://monkeytype-production.up.railway.app/generate-svg/Tezt/lil_dragon?lb=true"
+          "https://monkeytype-production.up.railway.app/generate-svg/Tezt/vesper?lb=true"
 
           curl -L -o public/monkeytype-readme-pb.svg \
-          "https://monkeytype-production.up.railway.app/generate-svg/Tezt/lil_dragon?pb=true"
+          "https://monkeytype-production.up.railway.app/generate-svg/Tezt/vesper?pb=true"
 
           curl -L -o public/monkeytype-readme-lb-pb.svg \
-          "https://monkeytype-production.up.railway.app/generate-svg/Tezt/lil_dragon?lbpb=true"
+          "https://monkeytype-production.up.railway.app/generate-svg/Tezt/vesper?lbpb=true"
 
       - name: Push SVGs
         uses: crazy-max/ghaction-github-pages@v4
