@@ -38,9 +38,9 @@
 
 ## I type with my feet
 
-  <a href="https://monkeytype.com/profile/Tezt">
+<a href="https://monkeytype.com/profile/Tezt">
         <img src="https://raw.githubusercontent.com/rsthopaz/rsthopaz/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-  </a>
+</a>
 
 ## Language
 
