@@ -38,9 +38,9 @@
 
 ## I type with my feet
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+type+with+my+feet;Monkeytype+warrior;150+wpm+on+a+good+day" />
-</p>
+  <a href="https://monkeytype.com/profile/Tezt">
+        <img src="https://raw.githubusercontent.com/rsthopaz/rsthopaz/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+  </a>
 
 ## Language
 
