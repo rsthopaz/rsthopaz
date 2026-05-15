@@ -38,9 +38,7 @@
 
 ## I type with my feet (dont click image below)
 
-<a href="https://monkeytype.com/profile/Tezt">
-        <img src="https://raw.githubusercontent.com/rsthopaz/rsthopaz/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" width="400"/>
-</a>
+![pb](https://monkeytype-production.up.railway.app/generate-svg/Tezt/vesper?pb=true)
 
 ## Language
 
