@@ -1,5 +1,8 @@
 name: generate monkeytype readme svg
 
+permissions:
+    contents: write
+
 on:
     schedule:
         - cron: "0 */6 * * *" # every 6 hours
