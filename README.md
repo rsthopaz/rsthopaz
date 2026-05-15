@@ -36,10 +36,10 @@
 
 ![GitHub stats](https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-## I type with my feet
+## I type with my feet (dont click image below)
 
 <a href="https://monkeytype.com/profile/Tezt">
-        <img src="https://raw.githubusercontent.com/rsthopaz/rsthopaz/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" width="250"/>
+        <img src="https://raw.githubusercontent.com/rsthopaz/rsthopaz/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" width="400"/>
 </a>
 
 ## Language
