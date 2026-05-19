@@ -33,7 +33,7 @@
 ## This one literally is my Calculus Score
 
 <p align="center">
-  <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true" width="47%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400" width="47%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsthopaz&theme=tokyonight" width="50%" alt="GitHub Streak" />
 </p>
 
