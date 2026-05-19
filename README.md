@@ -37,14 +37,13 @@
 ## This one literally is my Calculus Score
 
 <p align="center">
-  <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true" width="46%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true" width="47%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsthopaz&theme=tokyonight" width="50%" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats-gamma-nine-52.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" width="48%" height="40%" alt="Top Languages" />
- 
-</p>
+<div style="padding-left: 20px;">
+  <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" width="48%" height="40%" alt="Top Languages" />
+</div>
 
 
 ## I type with my feet (dont click image below)
