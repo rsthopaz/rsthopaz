@@ -1,9 +1,11 @@
 # Yes, I do Blockchain (Mostly on GitLab and Private Repo XD)
-# Why? Mom told me to
-
-
+> *"Why? my mom told me to"*
 
 ## God please help me 😭🙏
+
+<p align="center">
+  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFiNHQ1ZmllM2hvZGp4a3l3amnlfaWQmY3Q9Zw/hDKD6z2xNeMesbICNS/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFiNHQ1ZmllM2hvZGp4a3l3amnlfaWQmY3Q9Zw/hDKD6z2xNeMesbICNS/giphy.gif)" width="600" alt="Coding Animation" />
+</p>
 
 ### I dont know what this is
 
@@ -34,7 +36,15 @@
 
 ## This one literally is my Calculus Score
 
-![GitHub stats](https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsthopaz&theme=tokyonight" width="97%" alt="GitHub Streak" />
+</p>
+
 
 ## I type with my feet (dont click image below)
 
@@ -44,7 +54,7 @@
 
 ## Language
 
-- 🇮🇩 Indonesian - Native (installed at birth)
-- 🇬🇧 English - Advanced (Stack Overflow certified)
+* **`id_ID` (Indonesian)** - Native (installed at birth)
+* **`en_US` (English)** - Advanced (Stack Overflow certified)
 
 (sorry guys im too lazy to update my linkedin)
