@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" width="48%" height="80%" alt="Top Languages" />
 </p>
 
 <p align="center">
