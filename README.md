@@ -1,5 +1,5 @@
 # Yes, I do Blockchain (Mostly on GitLab and Private Repo XD)
-> *"Why? my mom told me to"*
+# Why? my mom told me to
 
 ## God please help me 😭🙏
 
