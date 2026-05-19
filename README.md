@@ -4,7 +4,7 @@
 ## God please help me 😭🙏
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFiNHQ1ZmllM2hvZGp4a3l3amnlfaWQmY3Q9Zw/hDKD6z2xNeMesbICNS/giphy.gif" width="600" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/hDKD6z2xNeMesbICNS/giphy.gif" width="600" />
 </p>
 
 ### I dont know what this is
