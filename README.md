@@ -41,7 +41,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsthopaz&theme=tokyonight" width="50%" alt="GitHub Streak" />
 </p>
 
-<div style="padding-left: 20px;">
+<div style="padding-left: 50px;">
   <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" width="48%" height="40%" alt="Top Languages" />
 </div>
 
