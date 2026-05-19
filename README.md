@@ -3,10 +3,6 @@
 
 ## God please help me 😭🙏
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hDKD6z2xNeMesbICNS/giphy.gif" width="600" />
-</p>
-
 ### I dont know what this is
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
