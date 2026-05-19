@@ -38,7 +38,7 @@
 </p>
 
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-gamma-nine-52.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" />
+<img src="https://github-readme-stats-gamma-nine-52.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" />  
 
 
 ## I type with my feet (dont click image below)
@@ -49,7 +49,7 @@
 
 ## Language
 
-* **`id_ID` (Indonesian)** - Native (installed at birth)
-* **`en_US` (English)** - Advanced (Stack Overflow certified)
+* 🇮🇩 **(Indonesian)** - Native (installed at birth)
+* 🇺🇸 **(English)** - Advanced (TOEFL -67)
 
 (sorry guys im too lazy to update my linkedin)
