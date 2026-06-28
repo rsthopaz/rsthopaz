@@ -5,7 +5,19 @@
 
 ### I somehow make these work 
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![MERN](https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=ethereum&logoColor=black) ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat&logo=hyperledger&logoColor=white) ### Currently pretending to learn ![Laravel](https://img.shields.io/badge/Laravel-Learning-FF2D20?style=flat&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-Learning-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-Learning-777BB4?style=flat&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-Learning-7F52FF?style=flat&logo=kotlin&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
+![MERN](https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=ethereum&logoColor=black) 
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat\&logo=ethereum\&logoColor=black)
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat&logo=hyperledger&logoColor=white) 
+
+### Currently pretending to learn
+![Laravel](https://img.shields.io/badge/Laravel-Learning-FF2D20?style=flat&logo=laravel&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/Vue.js-Learning-4FC08D?style=flat&logo=vuedotjs&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-Learning-777BB4?style=flat&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-Learning-7F52FF?style=flat&logo=kotlin&logoColor=white) 
 
 ### I only know `HelloWorld("print");` 
 
