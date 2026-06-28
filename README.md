@@ -3,34 +3,19 @@
 
 ## God please help me 😭🙏
 
-### I dont know what this is
+### I somehow make these work 
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat\&logo=ethereum\&logoColor=black)
-![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat\&logo=hyperledger\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Learning-FF2D20?style=flat\&logo=laravel\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-Learning-4FC08D?style=flat\&logo=vuedotjs\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![MERN](https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=ethereum&logoColor=black) ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat&logo=hyperledger&logoColor=white) ### Currently pretending to learn ![Laravel](https://img.shields.io/badge/Laravel-Learning-FF2D20?style=flat&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-Learning-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-Learning-777BB4?style=flat&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-Learning-7F52FF?style=flat&logo=kotlin&logoColor=white) 
 
-### I only know HelloWorld("print");
+### I only know `HelloWorld("print");` 
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat\&logo=solidity\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Learning-777BB4?style=flat\&logo=php\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-Learning-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
 
+### The only tools I know without Googling 
 
-### Eughh
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
-
-## This one literally is my Calculus Score
+### This one literally is my Calculus Score
 
 <p align="center">
   <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400" width="47%" alt="GitHub Stats" />
@@ -41,13 +26,13 @@
 <img src="https://github-readme-stats-gamma-nine-52.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" />  
 
 
-## I type with my feet (dont click image below)
+### I type with my feet (dont click image below)
 
 <a href="https://monkeytype.com/profile/Tezt">
         <img src="https://raw.githubusercontent.com/rsthopaz/rsthopaz/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" width="400"/>
 </a>
 
-## Language
+### Duolingo
 
 * 🇮🇩 **(Indonesian)** - Native (installed at birth)
 * 🇺🇸 **(English)** - Advanced (TOEFL -67)
