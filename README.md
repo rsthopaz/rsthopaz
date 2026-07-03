@@ -35,7 +35,7 @@
 </p>
 
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-gamma-nine-52.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" />  
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rsthopaz&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" />  
 
 
 ### I type with my feet (dont click image below)
