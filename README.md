@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=rsthopaz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=ambient_gradient">
-    <img width="58%" src="https://github-stats-extended.vercel.app/api?username=rsthopaz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=ambient_gradient" />
+    <img width="58%" src="https://github-stats-extended.vercel.app/api?username=rsthopaz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=ambient_gradient](https://github-stats-extended.vercel.app/api?username=rsthopaz&custom_title=%E6%88%91%E5%96%9C%E6%AC%A2%E4%B9%A0%E8%BF%91%E5%B9%B3&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=ambient_gradient" />
   </a>
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=rsthopaz&layout=donut-vertical&langs_count=10&theme=calm_pink">
     <img width="35%" src="https://github-stats-extended.vercel.app/api/top-langs?username=rsthopaz&layout=donut-vertical&langs_count=10&theme=calm_pink" />
