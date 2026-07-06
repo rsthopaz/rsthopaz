@@ -33,12 +33,14 @@
 ### This one literally is my Calculus Score
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=rsthopaz&show_icons=true&theme=tokyonight&cache_seconds=86400" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsthopaz&theme=tokyonight" width="50%" alt="GitHub Streak" />
+  <a href="https://github-stats-extended.vercel.app/api?username=rsthopaz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=ambient_gradient">
+    <img width="58%" src="https://github-stats-extended.vercel.app/api?username=rsthopaz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=ambient_gradient" />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=rsthopaz&layout=donut-vertical&langs_count=10&theme=calm_pink">
+    <img width="35%" src="https://github-stats-extended.vercel.app/api/top-langs?username=rsthopaz&layout=donut-vertical&langs_count=10&theme=calm_pink" />
+  </a>
 </p>
 
-&nbsp;&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rsthopaz&langs_count=6&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html" />  
 
 
 ### I type with my feet (dont click image below)
