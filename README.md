@@ -3,7 +3,7 @@
 
 ## God please help me 😭🙏
 
-### I somehow make these work 
+### I somehow make these things work 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
 ![MERN](https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white) 
@@ -43,7 +43,7 @@
 
 
 
-### I type with my feet (dont click image below)
+### I type with my feet (dont click this image below)
 
 <a href="https://monkeytype.com/profile/Tezt">
         <img src="https://raw.githubusercontent.com/rsthopaz/rsthopaz/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" width="400"/>
@@ -52,6 +52,6 @@
 ### Duolingo
 
 * 🇮🇩 **(Indonesian)** - Native (installed at birth)
-* 🇺🇸 **(English)** - Advanced (TOEFL -67)
+* 🇺🇸 **(English)** - Working Proficiency (TOEFL -67)
 
 (sorry guys im too lazy to update my linkedin)
